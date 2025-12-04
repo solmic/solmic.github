@@ -2,12 +2,19 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "solmic.github.io"
+  title: "Soleil Michaud"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - about.qmd
+      - courses.qmd
+      - research.qmd
+      - teaching.qmd
+
 
 format:
   html:

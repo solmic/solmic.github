@@ -6,6 +6,21 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+---
+title: "Soleil Michaud"
+about:
+  template: jolla
+  image: images/avatar.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/solmic/solmic.github.git>
+---
+
+*Graduate Student in Institute of Oceans and Fisheries*
+
+University of British Columbia
+
+## Education
+
+BSc in Environmental Sciences and Biology, University of San Diego \| 2025

@@ -1,0 +1,97 @@
+---
+title: "Courses"
+date-modified: last-modified
+editor: visual
+---
+
+## Current Courses
+
+#### University of British Columbia
+
+-   Fish 500
+
+-   Stats 545
+
+## Previous Courses
+
+#### University of British Columbia
+
+-   Environmental Sciences
+
+    -   Fish 500
+
+-   Statistics
+
+    -   Stats 545
+
+#### University of San Diego
+
+-   Environmental Sciences
+
+    -   Introduction to Geo-sciences
+
+    -   Organisms and Ecosystems
+
+    -   Environmental Communications
+
+    -   Research Applications in Environmental and Ocean Sciences
+
+    -   Animal Behavior Ecology
+
+    -   Human Impacts on Coastal Environments
+
+-   Oceonography
+
+    -   Directed Oceanographic Research
+
+    -   Oceans in the Global Carbon Cycle
+
+    -   Advanced Oceanographic Field Methods
+
+    -   Nautical Sciences
+
+    -   Atmospheric and Ocean Sciences
+
+-   Biology
+
+    -   Bio-energetics and Systems and Lab
+
+    -   Genomes and Evolution and Lab
+
+    -   Genetics
+
+    -   Ecology
+
+-   Statistics
+
+    -   Environmental Data Analysis
+
+    -   Advanced Research Synthesis
+
+-   Chemistry
+
+    -   General Chemistry I and Lab
+
+    -   General Chemistry II and Lab
+
+    -   Organic Chemistry I and Lab
+
+-   Physics
+
+    -   General Physics I and Lab
+
+-   Math
+
+    -   Calculus I
+
+-   Non Major Courses
+
+    -   Introduction to World Religions
+
+    -   Theologies of Martin Luther King and Malcolm X
+
+    -   Drugs and U.S Society
+
+    -   Philosophy of Archeology
+
+    -   Reproductive Justice and Catholic Feminism

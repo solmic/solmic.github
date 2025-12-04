@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Soleil Michaud",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nGraduate Student in Institute of Oceans and Fisheries\nUniversity of British Columbia"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Soleil Michaud",
+    "section": "Education",
+    "text": "Education\nBSc in Environmental Sciences and Biology, University of San Diego | 2025"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Fish 500\nStats 545"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "Fish 500\nStats 545"
+  },
+  {
+    "objectID": "courses.html#previous-courses",
+    "href": "courses.html#previous-courses",
+    "title": "Courses",
+    "section": "Previous Courses",
+    "text": "Previous Courses\n\nUniversity of British Columbia\n\nEnvironmental Sciences\n\nFish 500\n\nStatistics\n\nStats 545\n\n\n\n\nUniversity of San Diego\n\nEnvironmental Sciences\n\nIntroduction to Geo-sciences\nOrganisms and Ecosystems\nEnvironmental Communications\nResearch Applications in Environmental and Ocean Sciences\nAnimal Behavior Ecology\nHuman Impacts on Coastal Environments\n\nOceonography\n\nDirected Oceanographic Research\nOceans in the Global Carbon Cycle\nAdvanced Oceanographic Field Methods\nNautical Sciences\nAtmospheric and Ocean Sciences\n\nBiology\n\nBio-energetics and Systems and Lab\nGenomes and Evolution and Lab\nGenetics\nEcology\n\nStatistics\n\nEnvironmental Data Analysis\nAdvanced Research Synthesis\n\nChemistry\n\nGeneral Chemistry I and Lab\nGeneral Chemistry II and Lab\nOrganic Chemistry I and Lab\n\nPhysics\n\nGeneral Physics I and Lab\n\nMath\n\nCalculus I\n\nNon Major Courses\n\nIntroduction to World Religions\nTheologies of Martin Luther King and Malcolm X\nDrugs and U.S Society\nPhilosophy of Archeology\nReproductive Justice and Catholic Feminism"
+  }
+]
